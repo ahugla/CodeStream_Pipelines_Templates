@@ -1,7 +1,7 @@
 ---
 project: CMP_SEs
 kind: PIPELINE
-name: ${input.Pipeline_Name}
+name: pipeline Template
 icon: organization,left, is-teal
 enabled: false
 concurrency: 10
