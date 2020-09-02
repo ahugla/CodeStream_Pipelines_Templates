@@ -3,7 +3,7 @@ project: CMP_SEs
 kind: PIPELINE
 name: TESTTTTTTTTT
 icon: organization,left, is-teal
-enabled: false
+enabled: true
 concurrency: 10
 workspace:
   endpoint: ''
