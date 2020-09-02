@@ -1,9 +1,9 @@
 ---
 project: CMP_SEs
 kind: PIPELINE
-name: test alex
+name: ${input.Pipeline_Name}
 icon: organization,left, is-teal
-enabled: true
+enabled: false
 concurrency: 10
 workspace:
   endpoint: ''
